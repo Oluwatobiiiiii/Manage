@@ -9,3 +9,4 @@ This is a website that i made with
 it is a challenge from frontend mentor
 
 To preview the website 
+https://manage2022.netlify.app/
